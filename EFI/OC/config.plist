@@ -1811,7 +1811,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>alcid=1 npci=0x2000 -v keepsyms=1 debug=0x100 agdpmod=pikera</string>
+				<string>alcid=1 -wegoff npci=0x2000 -v keepsyms=1 debug=0x100 agdpmod=vit9696</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
